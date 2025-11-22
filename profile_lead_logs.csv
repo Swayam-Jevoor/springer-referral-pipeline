@@ -1,0 +1,8 @@
+column,null_count,distinct_count
+id,0,8
+lead_id,0,5
+source_category,0,2
+created_at,0,5
+preferred_location,0,3
+timezone_location,0,1
+current_status,0,5

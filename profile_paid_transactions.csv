@@ -1,0 +1,7 @@
+column,null_count,distinct_count
+transaction_id,0,14
+transaction_status,0,1
+transaction_at,0,14
+transaction_location,0,6
+timezone_transaction,0,2
+transaction_type,0,2

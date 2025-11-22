@@ -1,0 +1,12 @@
+column,null_count,distinct_count
+referral_at,0,44
+referral_id,0,46
+referee_id,3,37
+referee_name,3,35
+referee_phone,0,33
+referral_reward_id,38,3
+referral_source,0,3
+referrer_id,13,13
+transaction_id,13,27
+updated_at,0,40
+user_referral_status_id,0,3

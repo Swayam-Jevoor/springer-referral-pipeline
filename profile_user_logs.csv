@@ -1,0 +1,9 @@
+column,null_count,distinct_count
+id,0,29
+user_id,0,9
+name,0,7
+phone_number,0,9
+homeclub,0,6
+timezone_homeclub,0,2
+membership_expired_date,0,9
+is_deleted,0,2

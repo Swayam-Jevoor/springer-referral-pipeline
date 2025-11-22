@@ -1,0 +1,6 @@
+column,null_count,distinct_count
+id,0,96
+user_referral_id,0,78
+source_transaction_id,79,17
+created_at,0,96
+is_reward_granted,0,2
